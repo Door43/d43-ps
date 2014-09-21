@@ -1,0 +1,22 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ps:home|Door43 (ps)]]
+  * [[en:license|License]]
+
+**Resources**
+
+  * [[ps:obs|Open Bible Stories (ps)]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ps|d43-ps repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ps/archive/master.zip|d43-ps.zip]]
+
+**Recent Changes**
+{{changes>ns = ps}}
+
+**Latest Status**
+{{page>en:uwadmin:ps:obs:status}}
+
