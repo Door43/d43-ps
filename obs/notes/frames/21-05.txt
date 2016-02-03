@@ -14,7 +14,7 @@ Through the **prophet Jeremiah**, **God promised** that he would make a **New Co
   * **[[:ps:obe:kt:newcovenant]]**
   * **[[:ps:obe:kt:covenant]]**
   * **[[:ps:obe:other:israel]]**
-  * **[[:ps:obe:kt:sinai]]**
+  * **[[:ps:obe:other:sinai]]**
   * **[[:ps:obe:kt:forgive]]**
   * **[[:ps:obe:kt:sin]]**
   * **[[:ps:obe:kt:christ]]**
