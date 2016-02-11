@@ -1,14 +1,57 @@
-
 ----
-~~NOCACHE~~
+
+
 **Door43**
 
-  * [[ps:home|Door43 (ps)]]
-  * [[en:license|License]]
+  * [[ps:home|Door43 (Pashto)]]
+
+**Help**
+
+  * [[:ps:ta|translationAcademy]]
+  * [[:ps:get-started|How to Get Started]]
+  * [[:ps:obs:help|Open Bible Stories Help]]
 
 **Resources**
 
-  * [[ps:obs|Open Bible Stories (ps)]]
+  *  [[:ps:obs|Open Bible Stories]]
+      * [[:ps:obs:notes|translationNotes]]
+      * [[:ps:obs:notes:questions:home|translationQuestions]]
+      * [[:ps:obe:home|translationWords]]
+  *  [[:en:bible:intro|Bible (English)]]
+      * [[:en:ulb:ep:home|(English) Unlocked Literal Bible]]
+      * [[:en:udb:ep:home|(English) Unlocked Dynamic Bible]]
+      * [[:en:bible:notes:home|(English) translationNotes]]
+      * [[:en:bible:questions:comprehension:home|(English) translationQuestions]]
+      * [[:en:obe:home|(English) translationWords]]
+  * [[:en:lexicon|Open Bible Lexicon (English)]]
+  *  [[:en:library|Open Christian Library]]
+      * [[:en:pet|Plain English Translation]]
+      * [[:en:library:t4t:home|Translation for Translators]]
+  *  [[:ps:bible:intro|Bible (Pashto)]]
+      * [[:ps:ulb:ep:home|Unlocked Literal Bible]]
+      * [[:ps:udb:ep:home|Unlocked Dynamic Bible]]
+      * [[:ps:bible:notes:home|translationNotes]]
+      * [[:ps:bible:questions:comprehension:home|translationQuestions]]
+      * [[:ps:obe:home|translationWords]]
+  * [[:ps:ta|translationAcademy ]]
+      * [[:ps:ta:vol1:intro:toc_intro|Introduction]]
+      * [[:ps:ta:vol1:translate:toc_transvol1_2|Translation Manual]]
+      * [[:ps:ta:vol1:checking:toc_checkvol1_2|Checking Manual]]
+      * [[:ps:ta:vol1:tech:toc_techvol1_2|Technology Manual]]
+      * [[:ps:ta:vol1:process:toc_processvol1_2|Process Manual]]
+
+
+**About Door43**
+
+  * [[:ps:ta:vol1:intro:statement_of_faith|Statement of Faith]]
+  * [[:ps:ta:vol1:intro:translation_guidelines|Translation Guidelines]]
+  * [[:ps:ta:vol1:intro:open_license|Copyrights & Licensing]]
+
+**Door43 Development**
+
+  * [[:en:dev|Development Projects]]
+
+~~NOCACHE~~
 
 **Downloads**
 
